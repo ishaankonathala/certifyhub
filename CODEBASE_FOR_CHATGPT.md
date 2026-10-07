@@ -1,4 +1,4 @@
-# CertifyHub - Complete Codebase Documentation for ChatGPT
+# CertifyHub - Complete Codebase Documentation 
 
 ## Project Overview
 
